@@ -4,7 +4,6 @@
 ## [Tutorial Video](https://youtu.be/0c-RNYb6XiQ)
 🎥 https://youtu.be/0c-RNYb6XiQ  🎥 
 
-![](https://github.com/Redando/Facebook-Messenger-ChatGPT-Integration/blob/main/images/Facebook_Messenger_Webhook.gif)
 ---
 This repository contains the source code for automating Facebook messenger conversations for business pages through integrating OpenAI's ChatGPT. This integration allows you to leverage the power of ChatGPT to respond to user messages on Facebook Messenger in real-time.
 
