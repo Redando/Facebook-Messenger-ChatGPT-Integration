@@ -1,7 +1,7 @@
 # Facebook Messenger + ChatGPT Integration
 
 
-## [Tutorial Video](https://www.example.com)
+## [Tutorial Video](https://youtu.be/0c-RNYb6XiQ)
 🎥 https://youtu.be/0c-RNYb6XiQ  🎥 
 
 ---
