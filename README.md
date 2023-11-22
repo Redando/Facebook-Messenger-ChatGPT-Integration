@@ -18,7 +18,7 @@ Before you begin, make sure you have the following installed:
 
 ## Setup
 1. Clone this repository to your local machine:
-> git clone https://github.com/Redando/classical-art-webhook.git
+> git clone https://github.com/Redando/Facebook-Messenger-ChatGPT-Integration.git
 
 2. Install dependencies:
 ```
