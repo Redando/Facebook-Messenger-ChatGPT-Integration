@@ -51,4 +51,4 @@ Now, your Facebook Messenger integration with ChatGPT should be set up and ready
 
 ### Customizations
 
-Feel free to customize the code and responses according to your specific use case. You can modify the carousel items to present alternative elements and update the ChatGPT prompt to get a response appropriate for your conversation. Drop a comment of your use case in the comments of the video comment! ✌🏽
+Feel free to customize the code and responses according to your specific use case. You can modify the carousel items to present alternative elements and update the ChatGPT prompt to get a response appropriate for your conversation. Drop a comment of your use case in the comments of the video! ✌🏽
